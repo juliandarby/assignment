@@ -1,2 +1,0 @@
-# assignment
-For Coursera assignment
